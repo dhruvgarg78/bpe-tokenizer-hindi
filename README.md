@@ -7,6 +7,9 @@ This repository contains a Byte Pair Encoding (BPE) tokenizer for Hindi text. Th
 - **Compression Ratio**: 9.24x
 - **Vocabulary Size**: 4500 tokens
 
+## Hugging Face
+https://huggingface.co/spaces/dhruv78/bpe-tokenizer-hindi
+
 ## Files
 
 1. **`BPE_Training.ipynb`**: The Jupyter notebook for training the BPE model on Hindi text.
