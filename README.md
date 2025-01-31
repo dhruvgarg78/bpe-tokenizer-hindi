@@ -8,6 +8,8 @@ This repository contains a Byte Pair Encoding (BPE) tokenizer for Hindi text. Th
 - **Vocabulary Size**: 4500 tokens
 
 ## Hugging Face
+![image](https://github.com/user-attachments/assets/f7d2838b-5d28-421c-a120-3fa7d807641a)
+
 https://huggingface.co/spaces/dhruv78/bpe-tokenizer-hindi
 
 ## Files
